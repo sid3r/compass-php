@@ -4,3 +4,6 @@ npm-debug.log
 yarn.lock
 public/js/app.js
 public/js/vendor.js
+.env
+.vscode/
+.yarn/
