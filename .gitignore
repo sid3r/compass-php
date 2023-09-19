@@ -1,0 +1,6 @@
+vendor/
+node_modules/
+npm-debug.log
+yarn.lock
+public/js/app.js
+public/js/vendor.js
