@@ -1,5 +1,5 @@
 # Compass
-Stocks management and invoincing app build ontop of Laravel, VueJS 2, ElementUI.
+Stock management and invoincing app build on Laravel, VueJS 2, ElementUI.
 
 ![compass-preview](public/preview.png)
 
@@ -7,10 +7,10 @@ NOTE: This project was not updated since mid-2021, do not use for production, on
 
 - Clients and providers
 - Products and categories
-- Qtotations and invoices creation and printing
+- Quotations and invoices creation and printing
 - Stock management
 - Dashboard
-_ User and roles
+- Users and roles
 
 ## Requirements
 
